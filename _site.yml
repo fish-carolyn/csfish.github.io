@@ -1,14 +1,20 @@
-name: "Yay internet!"
+name: "Carolyn Fish"
 output_dir: "."
 navbar:
-  title: "Home"
+  title: "About"
   right:
-    - text: "About"
-      href: about.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Publications & Presentations"
+      href: publications_presentations.html
+    - text: "Google Scholar"
+      href: https://scholar.google.com/citations?user=FDazkpAAAAAJ&hl=en&oi=ao
+    - text: "LinkedIn"
+      href: https://www.linkedin.com/in/carolyn-fish-8380ab193
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<csf2135@cumc.columbia.edu>
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: http://github.com/<fish-carolyn>/
 output:
   html_document:
     theme: cerulean

@@ -1,0 +1,95 @@
+---
+title: "Carolyn S. Fish"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+### EDUCATION
+
+##### Columbia University, Mailman School of Public Health
+##### Master of Public Health, Epidemiology
+
+_Certificate: Applied Biostatistics and Public Health Data Science_
+
+
+
+##### Seattle University College of Science and Engineering
+##### Bachelor of Science, Cell and Molecular Biology
+
+_Cum Laude_
+
+Capstone project: "Atypical mechanisms for immune evasion by MgpB and MgpC lipoproteins in Mycoplasma genitalium allow for persistent infection in urogenital systems" 
+
+
+
+### EMPLOYMENT & RESEARCH EXPERIENCE
+
+##### Student Research Worker
+##### Geospatial and Applied Prevention Science Lab 
+##### Department of Epidemiology, Mailman School of Public Health, Columbia University
+2023-Present 
+New York, NY
+
+  * Applying spatial epidemiological methods and theories to projects studying strategies for gun violence prevention. 
+  * Acts as a point of communication for participants of a national survey-based randomized control trial. 
+  * Routinely communicates project updates, data, and manuscript progression to diverse groups and collaborators both remotely and in-person. 
+  
+##### Health Data Analyst
+##### Office of the Medical Director
+##### Department of Homeless Services, NYC Department of Social Services
+May-Aug 2023 
+New York, NY
+
+  * Aggregates and analyzes opioid-use and opioid-overdose incidents in NYC homeless shelters and sites in SAS and R. 
+  * Writes and publishes analyses of common health issues and predictors of health for individuals experiencing homelessness in NYC. 
+  * Reports on the progress of harm reduction programming in compliance with city- and state-level reporting requirements. 
+  * Manages and cleans administrative and medical data to develop data sets for agency use. 
+
+##### Research Technician
+##### Overbaugh/Lehman Lab 
+##### Department of Human Biology, Fred Hutch Cancer Center
+2019-Present 
+Seattle, WA
+
+  * Lead for the optimization, application, and data handling/analysis of cross-subtype HIV-1 DNA assays for applications in global cure studies and investigation of HIV-1 viral reservoir diversity and dynamics of decay in pediatric infections. 
+  * Studying the epidemiological correlates and seroprevalence of SARS-CoV-2 infection in prospective cohorts of Kenyan mothers living with HIV and HIV-exposed infants. 
+  * Modeling SARS-CoV-2 antibody durability in mother-infant cohorts via longitudinal sampling.      * Optimized the use of dried blood spots in serological assays enabling limited-resource sample collection. 
+  * Collaboratively investigating HIV-1 viral diversity to estimate time of infection in Kenyan infants on ART via deep sequencing and mathematical modeling. 
+  
+##### Research Assistant, 
+##### Zanis Lab 
+##### Department of Biology, School of Science and Engineering, Seattle University
+2018-2019 
+Seattle, WA
+
+  * Investigated the population diversity of ecologically important green algae using single-cell isolation and DNA extraction, whole genome amplification, and PCR techniques. 
+  * Conducted next-generation sequencing using Illumina MiSeq platform to identify SNPs in green algae individuals. 
+  
+##### Research Assistant
+##### Kaiser Lab 
+##### Department of Biology, School of Science and Engineering, Seattle University 
+2019 
+Seattle, WA
+
+  * Cloned and purified potential recombinant anti-CRISPR proteins for use in investigative binding assays to establish protein function and identity. 
+  
+##### Lab Aide 
+##### Department of Biology, School of Science and Engineering, Seattle University
+2018-2019 
+
+
+
+TECHNICAL SKILLS
+
+Data Management Microsoft Office Suite 2016 Excel Specialist Sharepoint REDCap LabArchives GitHub Data Visualization PRISM PyMOL ExPASy ApE ImageJ QuantaSoft XP Pro Statistics & Analytics R R studio STATA SAS MySQL Trainings Biosafety Level 2+ safety Human Subjects Research Research Ethics International and domestic handling of biospecimens HIPAA compliance TEACHING EXPERIENCE
+
+Epidemiology Teaching Assistant, Columbia University Mailman School of Public Health 2023 Supported instructors and faculty in grading and administrative tasks for 5 courses in the Dept. of Epidemiology. Served as a liaison between faculty and students throughout the semester. Writing Consultant, Committee Chair, Seattle University Writing Center 2016-2019 Provides academic writing resources and peer tutoring to university students. Tutors graduate and undergraduate students in effective written and oral communication. Oversees publicity events and staff professional development in a collaborative setting. Teaching Assistant, Organic Chemistry I Lab, Dept. of Chemistry, Seattle University 2018 Mentored students in basic organic chemistry techniques and provided guidance in safe lab practices. Distributed and graded student quizzes weekly. Teaching Assistant, General Biology Lab I, Dept. of Biology, Seattle University 2018 Aided students in basic molecular biology procedures (gel electrophoresis, transformation) and protocols. Graded course work and assignments. Teaching Assistant, Biotechnology, Dept. of Biology, Seattle University 2018 Organized media and materials for use by students in molecular biology lab course. Teaching Assistant, Principles of Microbiology, Dept. of Biology, Seattle University 2017 Offered in-lab guidance to students in microbiology procedures, staining, ELISA, and sterile technique. Prepared growth media and necessary materials for use by students. LEADERSHIP AND INVOLVEMENT
+
+General Board Member, Global Health Organization, Columbia University 2022-Present Sport Club Executive Board Representative, Seattle University Recreation 2018-2019 Treasurer, Risk Manager, Women's Club Volleyball, Seattle University Recreation 2017-2019 President, Treasurer, Biology Club, Seattle University 2017-2019 Kindergarten Student Mentor, Seattle University K-12 Youth Initiative 2016-2019 GRANTS AND AWARDS
+
+1st place, Columbia University 2022 Team Case Challenge 2022 Excellence in Research, Seattle University Department of Biology 2019 Undergraduate Research Support, Seattle University College of Science and Engineering 2018 Seattle University President's List 2015-2019 REFERENCES
+
+Christopher Morrison, Ph.D., MPH Assistant Professor of Epidemiology, Columbia University Mailman School of Public Health Email: [cm3820\@cumc.columbia.edu](mailto:cm3820@cumc.columbia.edu){.email} Jacqueline Trembley, MPH Program Manager, NYC Dept. of Homeless Services, Office of the Medical Examiner Email: [jtremblay\@dhs.nyc.gov](mailto:jtremblay@dhs.nyc.gov){.email} Julie Overbaugh, Ph.D. Professor, Human Biology and Public Health Sciences Division, Fred Hutchinson Cancer Center Email: [joverbau\@fredhutch.org](mailto:joverbau@fredhutch.org){.email} Dara Lehman, Ph.D., MHS Affiliate Associate Professor, Department of Global Health, University of Washington Senior Staff Scientist, Fred Hutchinson Cancer Center Email: [dlehman\@fredhutch.org](mailto:dlehman@fredhutch.org){.email} Brett Kaiser, Ph.D. Associate Professor, Seattle University Visiting Scientist, Fred Hutchinson Cancer Center Email: [kaiserb\@seattleu.edu](mailto:kaiserb@seattleu.edu){.email} Michael Zanis, Ph.D. Associate Professor, Seattle University Email: [zanism\@seattleu.edu](mailto:zanism@seattleu.edu){.email} Daniel Smith, Ph.D. Associate Professor, Seattle University Email: [smithdr\@seattleu.edu](mailto:smithdr@seattleu.edu){.email}
