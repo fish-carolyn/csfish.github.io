@@ -9,11 +9,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
-<meta name="author" content="Carolyn Fish" />
 
-<meta name="date" content="2023-10-31" />
 
-<title>Homework 4</title>
+<title>index.knit</title>
 
 <script src="site_libs/header-attrs-2.24/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -31,9 +29,6 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -226,69 +221,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-
 
 </head>
 
@@ -296,16 +228,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -358,132 +280,14 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Homework 4</h1>
-<h4 class="author">Carolyn Fish</h4>
-<h4 class="date">2023-10-31</h4>
 
 </div>
 
 
-<pre class="r"><code>knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)</code></pre>
-<p>My Resume</p>
-<p>EDUCATION</p>
-<p>Columbia University, Mailman School of Public Health Master of Public
-Health, Epidemiology Certificate: Applied Biostatistics and Public
-Health Data Science May 2024 Seattle University College of Science and
-Engineering Bachelor of Science, Cell and Molecular Biology, Cum Laude
-Capstone project: “Atypical mechanisms for immune evasion by MgpB and
-MgpC lipoproteins in Mycoplasma genitalium allow for persistent
-infection in urogenital systems” 2019 EMPLOYMENT &amp; RESEARCH
-EXPERIENCE</p>
-<p>Student Research Worker, Geospatial and Applied Prevention Science
-Lab Dept. of Epidemiology, Mailman School of Public Health, Columbia
-University 2023-Present Applying spatial epidemiological methods and
-theories to projects studying strategies for gun violence prevention.
-Acts as a point of communication for participants of a national
-survey-based randomized control trial. Routinely communicates project
-updates, data, and manuscript progression to diverse groups and
-collaborators both remotely and in-person. Health Data Analyst, Office
-of the Medical Director, Department of Homeless Services New York City
-Department of Social Services, New York, NY May-Aug 2023 Aggregates and
-analyzes opioid-use and opioid-overdose incidents in NYC homeless
-shelters and sites in SAS and R. Writes and publishes analyses of common
-health issues and predictors of health for individuals experiencing
-homelessness in NYC. Reports on the progress of harm reduction
-programming in compliance with city- and state-level reporting
-requirements. Manages and cleans administrative and medical data to
-develop data sets for agency use. Research Technician, Overbaugh/Lehman
-Lab Dept. of Human Biology, Fred Hutch Cancer Center 2019-Present Lead
-for the optimization, application, and data handling/analysis of
-cross-subtype HIV-1 DNA assays for applications in global cure studies
-and investigation of HIV-1 viral reservoir diversity and dynamics of
-decay in pediatric infections. Studying the epidemiological correlates
-and seroprevalence of SARS-CoV-2 infection in prospective cohorts of
-Kenyan mothers living with HIV and HIV-exposed infants. Modeling
-SARS-CoV-2 antibody durability in mother-infant cohorts via longitudinal
-sampling. Optimized the use of dried blood spots in serological assays
-enabling limited-resource sample collection. Collaboratively
-investigating HIV-1 viral diversity to estimate time of infection in
-Kenyan infants on ART via deep sequencing and mathematical modeling.
-Research Assistant, Zanis Lab Dept. of Biology, Seattle University
-School of Science and Engineering 2018-2019 Investigated the population
-diversity of ecologically important green algae using single-cell
-isolation and DNA extraction, whole genome amplification, and PCR
-techniques. Conducted next-generation sequencing using Illumina MiSeq
-platform to identify SNPs in green algae individuals. Research
-Assistant, Kaiser Lab Dept. of Biology, Seattle University School of
-Science and Engineering 2019 Cloned and purified potential recombinant
-anti-CRISPR proteins for use in investigative binding assays to
-establish protein function and identity. Lab Aide Dept. of Biology,
-Seattle University School of Science and Engineering 2018-2019 TECHNICAL
-SKILLS</p>
-<p>Data Management Microsoft Office Suite 2016 Excel Specialist
-Sharepoint REDCap LabArchives GitHub Data Visualization PRISM PyMOL
-ExPASy ApE ImageJ QuantaSoft XP Pro Statistics &amp; Analytics R R
-studio STATA SAS MySQL Trainings Biosafety Level 2+ safety Human
-Subjects Research Research Ethics International and domestic handling of
-biospecimens HIPAA compliance TEACHING EXPERIENCE</p>
-<p>Epidemiology Teaching Assistant, Columbia University Mailman School
-of Public Health 2023 Supported instructors and faculty in grading and
-administrative tasks for 5 courses in the Dept. of Epidemiology. Served
-as a liaison between faculty and students throughout the semester.
-Writing Consultant, Committee Chair, Seattle University Writing Center
-2016-2019 Provides academic writing resources and peer tutoring to
-university students. Tutors graduate and undergraduate students in
-effective written and oral communication. Oversees publicity events and
-staff professional development in a collaborative setting. Teaching
-Assistant, Organic Chemistry I Lab, Dept. of Chemistry, Seattle
-University 2018 Mentored students in basic organic chemistry techniques
-and provided guidance in safe lab practices. Distributed and graded
-student quizzes weekly. Teaching Assistant, General Biology Lab I, Dept.
-of Biology, Seattle University 2018 Aided students in basic molecular
-biology procedures (gel electrophoresis, transformation) and protocols.
-Graded course work and assignments. Teaching Assistant, Biotechnology,
-Dept. of Biology, Seattle University 2018 Organized media and materials
-for use by students in molecular biology lab course. Teaching Assistant,
-Principles of Microbiology, Dept. of Biology, Seattle University 2017
-Offered in-lab guidance to students in microbiology procedures,
-staining, ELISA, and sterile technique. Prepared growth media and
-necessary materials for use by students. LEADERSHIP AND INVOLVEMENT</p>
-<p>General Board Member, Global Health Organization, Columbia University
-2022-Present Sport Club Executive Board Representative, Seattle
-University Recreation 2018-2019 Treasurer, Risk Manager, Women’s Club
-Volleyball, Seattle University Recreation 2017-2019 President,
-Treasurer, Biology Club, Seattle University 2017-2019 Kindergarten
-Student Mentor, Seattle University K-12 Youth Initiative 2016-2019
-GRANTS AND AWARDS</p>
-<p>1st place, Columbia University 2022 Team Case Challenge 2022
-Excellence in Research, Seattle University Department of Biology 2019
-Undergraduate Research Support, Seattle University College of Science
-and Engineering 2018 Seattle University President’s List 2015-2019
-REFERENCES</p>
-<p>Christopher Morrison, Ph.D., MPH Assistant Professor of Epidemiology,
-Columbia University Mailman School of Public Health Email: <a
-href="mailto:cm3820@cumc.columbia.edu"
-class="email">cm3820@cumc.columbia.edu</a> Jacqueline Trembley, MPH
-Program Manager, NYC Dept. of Homeless Services, Office of the Medical
-Examiner Email: <a href="mailto:jtremblay@dhs.nyc.gov"
-class="email">jtremblay@dhs.nyc.gov</a> Julie Overbaugh, Ph.D.
-Professor, Human Biology and Public Health Sciences Division, Fred
-Hutchinson Cancer Center Email: <a href="mailto:joverbau@fredhutch.org"
-class="email">joverbau@fredhutch.org</a> Dara Lehman, Ph.D., MHS
-Affiliate Associate Professor, Department of Global Health, University
-of Washington Senior Staff Scientist, Fred Hutchinson Cancer Center
-Email: <a href="mailto:dlehman@fredhutch.org"
-class="email">dlehman@fredhutch.org</a> Brett Kaiser, Ph.D. Associate
-Professor, Seattle University Visiting Scientist, Fred Hutchinson Cancer
-Center Email: <a href="mailto:kaiserb@seattleu.edu"
-class="email">kaiserb@seattleu.edu</a> Michael Zanis, Ph.D. Associate
-Professor, Seattle University Email: <a
-href="mailto:zanism@seattleu.edu" class="email">zanism@seattleu.edu</a>
-Daniel Smith, Ph.D. Associate Professor, Seattle University Email: <a
-href="mailto:smithdr@seattleu.edu"
-class="email">smithdr@seattleu.edu</a></p>
 
 
 
-</div>
-</div>
+
 
 </div>
 
@@ -516,35 +320,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
-    $('.unlisted.unnumbered').addClass('toc-ignore')
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
