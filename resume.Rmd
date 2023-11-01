@@ -5,25 +5,26 @@ output:
         theme: sandstone
         toc: true
         toc_float: true
-header-includes:
-    - \usepackage{setspace}\doublespacing
-    - \usepackage{float}
   
 ---
 
 ###  <span style="color: SeaGreen;">EDUCATION</span>
 
-- **Columbia University, Mailman School of Public Health**
-  - *Master of Public Health, Epidemiology*
-  - *Certificate: Applied Biostatistics and Public Health Data Science*
-  - *May 2024*
+**Columbia University, Mailman School of Public Health**
 
-- **Seattle University College of Science and Engineering**
-  - *Bachelor of Science, Cell and Molecular Biology, Cum Laude*
-  - *Capstone project: "Atypical mechanisms for immune evasion by MgpB and MgpC lipoproteins in Mycoplasma genitalium allow for persistent infection in urogenital systems"*
-  - *2019*
+*Master of Public Health, Epidemiology*
 
-###  <span style="color: SeaGreen;">EMPLOYMENT & RESEARCH EXPERIENCE</span>
+*Certificate: Applied Biostatistics and Public Health Data Science*
+
+*May 2024*
+
+**Seattle University College of Science and Engineering**
+
+*Bachelor of Science, Cell and Molecular Biology, Cum Laude*
+
+*Capstone project: "Atypical mechanisms for immune evasion by MgpB and MgpC lipoproteins in Mycoplasma genitalium allow for persistent infection in urogenital systems"*
+
+###  <span style="color: SeaGreen;">EMPLOYMENT & RESEARCH </span>
 
 #### Student Research Worker, Geospatial and Applied Prevention Science Lab
 
