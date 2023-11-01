@@ -15,6 +15,6 @@ navbar:
       href: mailto:<csf2135@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/<fish-carolyn>/
-output:
-  html_document:
-    theme: cerulean
+  output: 
+    html_document:
+        theme: sandstone
