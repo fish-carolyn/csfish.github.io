@@ -16,41 +16,21 @@ output:
 
 - <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Owiti P, Begnel ER, Ojee E, Adhiamboc J, Ogwenoc V, Holland LA, Richardson B, Khang AK, Maqsoodd R, Gantt S, Lim ES, Slyker J, Kinuthia J, Wamalwa D, Chohan B, Lehman DA. <span style="color: DarkCyan; font-weight: bold;">Comparison of nucleocapsid versus spike antibody ELISAs for determining SARS-CoV-2 seropositivity in Kenyan women and infants</span>. *Journal of Medical Virology*. 2022.
 
-- <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Cassidy NAJ, Levy CN, Hughes SM, Jerome KR, Overbaugh J, Hladik F, Lehman DA. *Cross-Subtype Intact Proviral DNA Assay for HIV reservoir quantification*. *STAR Protocols*. 2022.
+- <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Cassidy NAJ, Levy CN, Hughes SM, Jerome KR, Overbaugh J, Hladik F, Lehman DA. <span style="font-style: italic; color: DarkCyan; font-weight: bold;">Cross-Subtype Intact Proviral DNA Assay for HIV reservoir quantification</span>. *STAR Protocols*. 2022.
 
-- Yucha R, Litchford M, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Yaffe ZA, Richardson BA, Maleche-Obimbo E, John-Stewart G, Wamalwa D, Overbaugh J, Lehman DA. *Higher Antibody-Dependent Cellular Cytotoxicity (ADCC) activity is associated with lower levels of defective HIV-1 provirus*. *Viruses*. 2023.
+- Yucha R, Litchford M, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Yaffe ZA, Richardson BA, Maleche-Obimbo E, John-Stewart G, Wamalwa D, Overbaugh J, Lehman DA. <span style="font-style: italic; color: DarkCyan; font-weight: bold;">Higher Antibody-Dependent Cellular Cytotoxicity (ADCC) activity is associated with lower levels of defective HIV-1 provirus</span>. Viruses. 2023.
 
-- Neary J, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Cassidy NAJ, Wamalwa D, Langat A, Ngugi E, Benki-Nugent S, Moraa H, Richardson BA, Njuguna I, Slyker S, Lehman DA, and John-Stewart G. *Predictors of intact HIV reservoir among children in Kenya*. *AIDS*. 2023.
+- Neary J, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Cassidy NAJ, Wamalwa D, Langat A, Ngugi E, Benki-Nugent S, Moraa H, Richardson BA, Njuguna I, Slyker S, Lehman DA, and John-Stewart G. <span style="font-style: italic; color: DarkCyan; font-weight: bold;">Predictors of intact HIV reservoir among children in Kenya</span>. AIDS. 2023.
 
-- Begnel ER, Chohan B, Ojee E, Adhiamboc J, Omondic P, Ogwenoc V, Holland LA, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Richardson B, Khang AK, Maqsood R, Lim ES, Lehman DA, Slyker J, Kinuthia J, Wamalwa D, Gantt S. *Incidence and correlates of SARS-CoV-2 infection among postpartum Kenyan women and their infants*. *PLOS One*. 2023.
+- Begnel ER, Chohan B, Ojee E, Adhiamboc J, Omondic P, Ogwenoc V, Holland LA, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Richardson B, Khang AK, Maqsood R, Lim ES, Lehman DA, Slyker J, Kinuthia J, Wamalwa D, Gantt S. <span style="font-style: italic; color: DarkCyan; font-weight: bold;">Incidence and correlates of SARS-CoV-2 infection among postpartum Kenyan women and their infants</span>. PLOS One. 2023.
 
-- Itell HL, Weight H, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Logue JK, Franko N, Wolf CR, McCulloch DJ, Galloway J, Matsen FA 4th, Chu HY, and Overbaugh J. *SARS-CoV-2 antibody binding and neutralization in dried blood spot eluates and paired plasma*. *Microbiology Spectrum*. 2021.
+- Itell HL, Weight H, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Logue JK, Franko N, Wolf CR, McCulloch DJ, Galloway J, Matsen FA 4th, Chu HY, and Overbaugh J. <span style="font-style: italic; color: DarkCyan; font-weight: bold;">SARS-CoV-2 antibody binding and neutralization in dried blood spot eluates and paired plasma</span>. Microbiology Spectrum. 2021.
 
-- Cassidy NAJ, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Levy CN, Roychoudhury P, Reeves DB, Hughes SM, Schiffer JT, Benki-Nugent S, John-Stewart G, Wamalwa D, Jerome KR, Overbaugh J, Hladik F, and Lehman DA. *HIV reservoir quantification using cross-subtype multiplex ddPCR*. *iScience*. 2021.
+- Cassidy NAJ, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Levy CN, Roychoudhury P, Reeves DB, Hughes SM, Schiffer JT, Benki-Nugent S, John-Stewart G, Wamalwa D, Jerome KR, Overbaugh J, Hladik F, and Lehman DA. <span style="font-style: italic; color: DarkCyan; font-weight: bold;">HIV reservoir quantification using cross-subtype multiplex ddPCR</span>. iScience. 2021.
 
-- Russell ML, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Drescher S, Cassidy NAJ, Overbaugh J, Benki-Nugent S, Slyker J, Mbori-Ngacha D, Bosire R, Wamalwa D, Maleche-Obimbo E, John-Stewart G, Matsen FA 4th, and Lehman DA. *Estimating time of HIV-1 infection in infants using viral sequence diversity*. *Journal of Viral Evolution* (In review).
+- Russell ML, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Drescher S, Cassidy NAJ, Overbaugh J, Benki-Nugent S, Slyker J, Mbori-Ngacha D, Bosire R, Wamalwa D, Maleche-Obimbo E, John-Stewart G, Matsen FA 4th, and Lehman DA. <span style="font-style: italic; color: DarkCyan; font-weight: bold;">Estimating time of HIV-1 infection in infants using viral sequence diversity</span>. Journal of Viral Evolution (In review).
 
-- Neary J, Chebet D, Benki-Nugent S, Moraa H, Cassidy NAJ, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Richardson BA, Njuguna I, Langat A, Ngugi E, Lehman DA, Slyker J, Wamalwa D, John-Stuart G. *Association between HIV and cytomegalovirus and neurocognitive outcomes among children with HIV*. *AIDS* (In press).
-
----
-
-#### Peer-Reviewed Conference Abstracts
-
-- Bushover BR, Kim A, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Mehranbod CA, Gobaud AN, Morrison CN. *Street construction projects and firearm violence: A natural experiment in New York City*. National Research Conference for the Prevention of Firearm Related Harms. 2023. Chicago, IL.
-
-- Bushover BR, Mehranbod CA, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Kim A, Gobaud AN, Morrison CN. *Heatwaves and firearm violence in 4 U.S. cities*. National Research Conference for the Prevention of Firearm Related Harms. 2023. Chicago, IL.
-
-- Mehranbod CA, Gobaud AN, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Bushover BR, Morrison CN. *Housing stability and firearm violence: A natural experiment utilizing COVID-19 eviction moratoria in the United States*.National Research Conference for the Prevention of Firearm Related Harms. 2023. Chicago, IL.
-
-- Neary J, <span style="color: DarkCyan; font-weight: bold;"><span style="color: DarkCyan; font-weight: bold;">Fish CS</span></span>, Cassidy NAJ, Wamalwa D, Langat A, Ngugi E, Benki-Nugent S, Moraa H, Richardson B, Overbaugh J, Slyker J, Lehman D, John-Stewart G. *Predictors of high total and intact HIV reservoir among children in Kenya*. University of Nairobi STD/AIDS Collaborative Research Group Annual Meeting. 2023. Nairobi, Kenya.
-
-- Russell ML, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Drescher S, Cassidy NAJ, Overbaugh J, Benki-Nugent S, Slyker J, Mbori-Ngacha D, Bosire R, Wamalwa D, Maleche-Obimbo E, John-Stewart G, Matsen FA 4th and Lehman DA. *Estimating time of HIV-1 infection in infants using viral sequence diversity*. University of Nairobi STD/AIDS Collaborative Research Group Annual Meeting. 2023. Nairobi, Kenya.
-
-- Poindexter M, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Cassidy NAJ, Duke E, Wamalwa D, Langat A, Chebet D, Moraa H, Overbaugh J, Slyker J, Benki-Nugent S, John-Stewart G, Schiffer JT, Lehman DA, and Reeves D. *Signs of differential clearance among intact and defective HIV DNA sequences in the pediatric reservoir*. Conference on Retroviruses and Opportunistic Infections. 2022. Denver, CO.
-
-- Russell ML, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Drescher S, Cassidy NAJ, Overbaugh J, Benki-Nugent S, Slyker J, Mbori-Ngacha D, Bosire R, Wamalwa D, Maleche-Obimbo E, John-Stewart G, Matsen FA 4th and Lehman DA. *Estimating time of HIV-1 infection in infants using viral sequence diversity*. Conference on Retroviruses and Opportunistic Infections. 2022. Denver, CO.
-
-- Neary J, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Cassidy NAJ, Wamalwa D, Langat A, Ngugi E, Benki-Nugent S, Moraa H, Richardson B, Overbaugh J, Slyker J, Lehman D, John-Stewart G. *Predictors of high total and intact HIV reservoir among children on ART in Kenya*. Conference on Retroviruses and Opportunistic Infections. 2022. Denver, CO.
+- Neary J, Chebet D, Benki-Nugent S, Moraa H, Cassidy NAJ, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Richardson BA, Njuguna I, Langat A, Ngugi E, Lehman DA, Slyker J, Wamalwa D, John-Stuart G. <span style="font-style: italic; color: DarkCyan; font-weight: bold;">Association between HIV and cytomegalovirus and neurocognitive outcomes among children with HIV</span>. AIDS (In press).
 
 ---
 
@@ -59,3 +39,18 @@ output:
 
 
 ---
+- Bushover BR, Kim A, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Mehranbod CA, Gobaud AN, Morrison CN. <span style="font-style: italic; color: DarkCyan; font-weight: bold;">Street construction projects and firearm violence: A natural experiment in New York City</span>. National Research Conference for the Prevention of Firearm Related Harms. 2023. Chicago, IL.
+
+- Bushover BR, Mehranbod CA, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Kim A, Gobaud AN, Morrison CN. <span style="font-style: italic; color: DarkCyan; font-weight: bold;">Heatwaves and firearm violence in 4 U.S. cities</span>. National Research Conference for the Prevention of Firearm Related Harms. 2023. Chicago, IL.
+
+- Mehranbod CA, Gobaud AN, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Bushover BR, Morrison CN. <span style="font-style: italic; color: DarkCyan; font-weight: bold;">Housing stability and firearm violence: A natural experiment utilizing COVID-19 eviction moratoria in the United States</span>. National Research Conference for the Prevention of Firearm Related Harms. 2023. Chicago, IL.
+
+- Neary J, <span style="color: DarkCyan; font-weight: bold;"><span style="color: DarkCyan; font-weight: bold;">Fish CS</span></span>, Cassidy NAJ, Wamalwa D, Langat A, Ngugi E, Benki-Nugent S, Moraa H, Richardson B, Overbaugh J, Slyker J, Lehman D, John-Stewart G. <span style="font-style: italic; color: DarkCyan; font-weight: bold;">Predictors of high total and intact HIV reservoir among children in Kenya</span>. University of Nairobi STD/AIDS Collaborative Research Group Annual Meeting. 2023. Nairobi, Kenya.
+
+- Russell ML, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Drescher S, Cassidy NAJ, Overbaugh J, Benki-Nugent S, Slyker J, Mbori-Ngacha D, Bosire R, Wamalwa D, Maleche-Obimbo E, John-Stewart G, Matsen FA 4th and Lehman DA. <span style="font-style: italic; color: DarkCyan; font-weight: bold;">Estimating time of HIV-1 infection in infants using viral sequence diversity</span>. University of Nairobi STD/AIDS Collaborative Research Group Annual Meeting. 2023. Nairobi, Kenya.
+
+- Poindexter M, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Cassidy NAJ, Duke E, Wamalwa D, Langat A, Chebet D, Moraa H, Overbaugh J, Slyker J, Benki-Nugent S, John-Stewart G, Schiffer JT, Lehman DA, and Reeves D. <span style="font-style: italic; color: DarkCyan; font-weight: bold;">Signs of differential clearance among intact and defective HIV DNA sequences in the pediatric reservoir</span>. Conference on Retroviruses and Opportunistic Infections. 2022. Denver, CO.
+
+- Russell ML, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Drescher S, Cassidy NAJ, Overbaugh J, Benki-Nugent S, Slyker J, Mbori-Ngacha D, Bosire R, Wamalwa D, Maleche-Obimbo E, John-Stewart G, Matsen FA 4th and Lehman DA. <span style="font-style: italic; color: DarkCyan; font-weight: bold;">Estimating time of HIV-1 infection in infants using viral sequence diversity</span>. Conference on Retroviruses and Opportunistic Infections. 2022. Denver, CO.
+
+- Neary J, <span style="color: DarkCyan; font-weight: bold;">Fish CS</span>, Cassidy NAJ, Wamalwa D, Langat A, Ngugi E, Benki-Nugent S, Moraa H, Richardson B, Overbaugh J, Slyker J, Lehman D, John-Stewart G. <span style="font-style: italic; color: DarkCyan; font-weight: bold;">Predictors of high total and intact HIV reservoir among children on ART in Kenya</span>. Conference on Retroviruses and Opportunistic Infections. 2022. Denver, CO.
