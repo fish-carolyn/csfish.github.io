@@ -79,6 +79,8 @@ instacart |>
          yaxis = list(title = "Units Ice Cream Ordered"))
 ```
 
+Column {data-width=350}
+
 ### Chart C
 
 ```{r, echo=FALSE}
