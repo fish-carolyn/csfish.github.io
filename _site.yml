@@ -8,7 +8,7 @@ navbar:
     - text: "Publications & Presentations"
       href: publications_presentations.html
     - text: "Ice Cream Dashboard"
-      href: P2_dashboard_files/icecream_flexdash.html
+      href: icecream_flexdash.html
     - text: "Google Scholar"
       href: https://scholar.google.com/citations?user=FDazkpAAAAAJ&hl=en&oi=ao
     - text: "LinkedIn"
