@@ -13,3 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
+WebsitePath: /Users/carolyn/Library/Mobile Documents/com~apple~CloudDocs/Fall 2023/Data Science I/p8105_hw4_csf2135/p8105_hw4_csf2135.github.io

@@ -1,7 +1,7 @@
 name: "Carolyn Fish"
 output_dir: "."
 navbar:
-  title: "About"
+  title: "Home"
   right:
     - text: "Resume"
       href: resume.html

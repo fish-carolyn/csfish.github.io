@@ -2,8 +2,10 @@
 title: "Ice Cream Analysis"
 output: 
   flexdashboard::flex_dashboard:
+    theme: sandstone
     orientation: columns
     vertical_layout: fill
+    source: embed
 ---
 
 ```{r setup, include=FALSE}
@@ -13,36 +15,25 @@ library(p8105.datasets)
 library(plotly)
 library(viridis)
 
-knitr::opts_chunk$set(
-	echo = TRUE,
-	warning = FALSE,
-	fig.width = 8, 
-  fig.height = 6,
-  out.width = "90%"
-)
-
-theme_set(theme_minimal() + theme(legend.position = "bottom"))
-
 options(
   ggplot2.continuous.colour = "viridis",
   ggplot2.continuous.fill = "viridis"
 )
 
+```
 
+## Column {data-width="650"}
+
+### Top 20 ice cream products quantity ordered
+
+```{r, echo=TRUE}
 
 data("instacart")
 
 instacart <- 
   instacart |> 
   as_tibble()
-```
 
-Column {data-width=650}
------------------------------------------------------------------------
-
-### Top 20 ice cream products quantity ordered
-
-```{r, echo=FALSE}
 instacart |> 
   filter(str_detect(product_name, "Ice Cream")) |> 
   group_by(product_name)  |> 
@@ -54,12 +45,11 @@ instacart |>
          yaxis = list(title = "Count"))
 ```
 
-Column {data-width=350}
------------------------------------------------------------------------
+## Column {data-width="350"}
 
 ### Ice cream orders through the day, by weekday
 
-```{r, echo=FALSE}
+```{r, echo=TRUE}
 instacart |> 
   filter(str_detect(product_name, "Ice Cream")) |> 
   group_by(order_hour_of_day, order_dow)  |> 
@@ -81,7 +71,7 @@ instacart |>
 
 ### Order size compared to when ice cream was added to cart
 
-```{r, echo=FALSE}
+```{r, echo=TRUE}
 plot_cart <- instacart |> 
   group_by(order_id) |> 
   mutate(total_items = n()) |> 
@@ -96,4 +86,3 @@ plot_cart <- instacart |>
 
 ggplotly(plot_cart)
 ```
-
