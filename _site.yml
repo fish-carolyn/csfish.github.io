@@ -22,3 +22,28 @@ navbar:
   output: 
     html_document:
         theme: sandstone
+        
+---
+
+##  <span style="color: SeaGreen;">Let me introduce myself...</span>
+
+---
+
+<img src="images/CarolynFish_headshot.png" style="width:50%">
+
+
+My name is Carolyn Fish and I am a MPH candidate at Columbia University's Mailman School of Public Health (New York, NY) with a focus on Epidemiology and Applied Biostatistics & Data Science.
+
+
+
+My professional interests are positioned at the interface of basic science research and interventions for health problems affecting vulnerable populations. My work with population-based studies involves collaborating with an array of epidemiologists, clinicians, and biostatisticians to find novel solutions to critical healh problems. My current research projects range from developing high throughput lab-based methods for detecting pediatric HIV reservoir to using geospatial techniques for investigating predictors of fire-arm violence on a national scale to leveraging clinical trial data to find potential drug therapies for uterine fibroids. Through my academic and professional work, I have developed familiarity with data management, analytics, and research communications and have found a passion for finding data-solutions to complex problems. 
+
+
+---
+<span style="color: DarkCyan; font-weight: bold;">Check out my groups' work here: </span>
+
+Columbia University Geospatial Applied Prevention Science Lab: https://www.thegapslab.org
+
+Fred Hutch Cancer Center, the Overbaugh/Lehman Lab: https://research.fredhutch.org/overbaugh/en.html
+
+
