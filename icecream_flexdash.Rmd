@@ -22,18 +22,21 @@ options(
 
 ```
 
-## Column {data-width="650"}
-
-### Top 20 ice cream products quantity ordered
-
-```{r, echo=TRUE}
+```{r, include=FALSE}
 
 data("instacart")
 
 instacart <- 
   instacart |> 
   as_tibble()
+```
 
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Top 20 ice cream products quantity ordered
+
+```{r, echo=FALSE}
 instacart |> 
   filter(str_detect(product_name, "Ice Cream")) |> 
   group_by(product_name)  |> 
@@ -45,11 +48,12 @@ instacart |>
          yaxis = list(title = "Count"))
 ```
 
-## Column {data-width="350"}
+Column {data-width=350}
+-----------------------------------------------------------------------
 
 ### Ice cream orders through the day, by weekday
 
-```{r, echo=TRUE}
+```{r, echo= FALSE}
 instacart |> 
   filter(str_detect(product_name, "Ice Cream")) |> 
   group_by(order_hour_of_day, order_dow)  |> 
@@ -71,7 +75,7 @@ instacart |>
 
 ### Order size compared to when ice cream was added to cart
 
-```{r, echo=TRUE}
+```{r, echo=FALSE}
 plot_cart <- instacart |> 
   group_by(order_id) |> 
   mutate(total_items = n()) |> 
@@ -81,7 +85,8 @@ plot_cart <- instacart |>
   geom_point(color= "darkorchid4", alpha = 0.5) +
   xlab("Total items in order") +  
   ylab("Order of Ice Cream to Cart") + 
-  theme(legend.position = "none")
+  theme(legend.position = "none")+ 
+  theme_bw()
 
 
 ggplotly(plot_cart)
