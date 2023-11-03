@@ -5,11 +5,11 @@ output:
     theme: sandstone
     orientation: columns
     vertical_layout: fill
-    source: embed
 ---
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
+
 library(tidyverse)
 library(p8105.datasets)
 library(plotly)
